@@ -1,0 +1,18 @@
+# Office lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+
+# Personal (per-machine) Claude Code settings — the shared lab settings.json files ARE committed
+**/settings.local.json
+CLAUDE.local.md
+
+# Editor
+.vscode/
+
+_youtube/
+
+# Internal event / facilitation materials — not part of the public study kit
+_event/
